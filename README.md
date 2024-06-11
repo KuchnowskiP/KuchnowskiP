@@ -4,7 +4,7 @@ continuously enhancing my skills and
 knowledge to drive impactful outcomes.
 
 - 🎓 Third-year student of Computer Engineering at Wroclaw University of Science and Technology
-- 🔭 I'm currently working on a project for my bachelor's degree - a web application for finding part-time jobs.
+- 🔭 I'm working on a project for my bachelor's degree - a web application for finding part-time jobs.
 - 🌱 I’m currently expanding my knowledge in Java, Spring, React and Docker
 - 📫 How to reach me: kuchnowski.piotr@outlook.com
 - ⚡ Fun fact: I play the guitar 🎸
