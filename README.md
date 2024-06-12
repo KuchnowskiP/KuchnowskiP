@@ -13,6 +13,7 @@ knowledge to drive impactful outcomes.
 <p float="left">
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" width="50" />
   <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" width="50" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/intellij/intellij-original.svg" width="50" />
   <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" width="50" />
   <img src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-original.svg" width="50" />
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" width="50" />
