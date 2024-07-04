@@ -5,11 +5,11 @@ knowledge to drive impactful outcomes.
 
 - 🎓 Third-year student of Computer Engineering at Wroclaw University of Science and Technology
 - 🔭 I'm working on a project for my bachelor's degree - a web application for finding part-time jobs.
-- 🌱 I’m currently expanding my knowledge in Java, Spring, React and Docker
+- 🌱 I’m currently expanding my knowledge in Java, Spring, React, and Docker
 - 📫 How to reach me: kuchnowski.piotr@outlook.com
 - ⚡ Fun fact: I play the guitar 🎸
 
-# 🛠️ Languages and technologies I worked with
+# 🛠️ Languages and technologies I've worked with
 <p float="left">
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" width="50" />
   <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" width="50" />
